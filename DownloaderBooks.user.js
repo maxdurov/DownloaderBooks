@@ -8,8 +8,8 @@
 // @match        https://reader.new.book.ru/*
 // @icon         none
 // @grant        none
-// @updateURL    https://github.com/maxdurov/DownloaderBooks/blob/main/DownloaderBooks.user.js
-// @downloadURL  https://github.com/maxdurov/DownloaderBooks/blob/main/DownloaderBooks.user.js
+// @updateURL    https://github.com/maxdurov/DownloaderBooks/raw/main/DownloaderBooks.user.js
+// @downloadURL  https://github.com/maxdurov/DownloaderBooks/raw/main/DownloaderBooks.user.js
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
 
