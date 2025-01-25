@@ -16,7 +16,7 @@
 
  function handler(){
     console.log("click");
-  $('#snif').attr('disable', 'true');
+  $('#snif').attr('disabled', 'true');
     $('#snif').text("0%");
   let a = $(document).find("#scrollContainer").children();
 $('#Container')[0].onscroll = async()=>{
